@@ -123,9 +123,3 @@ In addition to logistic regression, we will run a complementary series of linear
 In this way you will obtain standardized coefficients that are easier to interpret than the coefficients of logistic regression. For more on this approach, 
 see: Von Hippel, Paul, 2015. “Linear vs. Logistic models: which is better, and when?” Statistical horizons. July 5. Retrieved on December 3, 2021. 
 https://statisticalhorizons.com/linear-vs-logistic.
-
-# Part 5: 
-Compare with Decision Trees / Random Forest Estimators
-Having worked with logistic and linear regression models, carry out predictions by using Decision Trees / Random Forests of our choice; 
-we have to try different ones and pick up the best. Then, we will check if the predictors, primarily the belief in supernatural evil, 
-make also a strong showing with the best model we have found.
